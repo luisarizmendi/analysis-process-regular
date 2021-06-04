@@ -93,7 +93,7 @@ If you want to test it locally, configure the appropiate vaiables pointing to th
 
 
 ```shell
-export KAFKA_BOOTSTRAP_URLS=localhost:9092 \
+export KAFKA_BOOTSTRAP_URLS=localhost:9092
 ```
 
 ```shell
